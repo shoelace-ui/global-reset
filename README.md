@@ -1,11 +1,13 @@
 # global-reset
-`global-reset` opaque mixin
 
-## Installation
-```sh
-$ npm install git://github.com/shoelace-ui/global-reset.git
+A global-reset opaque mixin
+
+## Usage
+
+```stylus
+@require 'shoelace-ui-global-reset'
 ```
 
 ## License
 
-[MIT](./LICENSE)
+MIT
